@@ -6,13 +6,8 @@ cache:
     - $HOME/.composer/cache
     - vendor
 php:
-- 5.3
-- 5.4
-- 5.5
-- 5.6
-- 7.0
-- 7.1
 - 7.2
+- 7.3
 env:
   global:
   - secure: Bc5ZqvZ1YYpoPZNNuU2eCB8DS6vBYrAdfBtTenBs5NSxzb+Vjven4kWakbzaMvZjb/Ib7Uph7DGuOtJXpmxnvBXPLd707LZ89oFWN/yqQlZKCcm8iErvJCB5XL+/ONHj2iPdR242HJweMcat6bMCwbVWoNDidjtWMH0U2mYFy3M=
